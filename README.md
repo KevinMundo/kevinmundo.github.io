@@ -1,19 +1,5 @@
-
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Kevin Mundo's Homepage</title>
-    <style>
-      .pub li { padding: 5px 0px; }
-    </style>
-    <script>
-      function swapImage() {
-        if (Math.random() > 0.9) {
-          document.getElementById("headshot").src = "headshot_old.png"
-        }
-      }
-    </script>
-  </head>
+
 
   <!-- <body onload="swapImage()"> -->
   <!-- code to trigger seeing my old picture -->

@@ -1,10 +1,6 @@
 <html>
 <head>
-    <style type="text/css">
-
-    .author {
-        color: gray;
-    }
+    <style>
     
     h1 {
     fomt-color: blue;

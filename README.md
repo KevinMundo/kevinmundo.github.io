@@ -1,10 +1,22 @@
 <html>
+<head>
+    <style type="text/css">
 
-
+    .author {
+        color: gray;
+    }
+    
+    hi {
+    fomt-color: blue;
+    
+    }
+    
+    </style>
+</head>
   <!-- <body onload="swapImage()"> -->
   <!-- code to trigger seeing my old picture -->
   <body>
-    <h1 style="color:blue;">Kevin Mundo's Homepage</h1>
+    <h1>Kevin Mundo's Homepage</h1>
     <img id="headshot" src="headshot.jpg" alt="Picture" style="width: 15%"/>
     <br>
     <h2>Who am I?</h2>

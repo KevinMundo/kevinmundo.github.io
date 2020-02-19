@@ -1,9 +1,9 @@
 <html>
 <head>
-    <style>
+    <style type"text/css">
     
     h1 {
-    fomt-color: blue;
+    color: blue;
     
     }
     

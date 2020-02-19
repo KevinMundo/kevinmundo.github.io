@@ -6,17 +6,18 @@
         color: gray;
     }
     
-    hi {
+    h1 {
     fomt-color: blue;
     
     }
     
     </style>
+    
+<h1>Kevin Mundo's Homepage</h1>
 </head>
   <!-- <body onload="swapImage()"> -->
   <!-- code to trigger seeing my old picture -->
   <body>
-    <h1>Kevin Mundo's Homepage</h1>
     <img id="headshot" src="headshot.jpg" alt="Picture" style="width: 15%"/>
     <br>
     <h2>Who am I?</h2>
@@ -37,7 +38,7 @@
       <li>Also available by appointment</li>
     </ul>
     
-    <h2>Degrees</h2>
+    <h2>Degrees Pursuing</h2>
     <ul>
       <li>
 	Ph.D. in Computer Science, Awarded by the <a href="http://www.ucsb.edu/">University of California, Santa Barbara</a> in 2017
@@ -50,7 +51,7 @@
       </li>
     </ul>
     
-    <h2>Current Courses Taught</h2>
+    <h2>Current Courses Taking</h2>
     <ul>
       <li>
 	<a href="https://kyledewey.github.io/comp430-spring20/">
@@ -72,7 +73,7 @@
       <b>Project for <a href="http://www.ecs.csun.edu/aims2/">AIMS<sup>2</sup></a>:</b> <a href="aims/index.html">Evaluating Test Suite Generation Techniques for Introductory Computer Science Assignments</a>
     </p>
 
-    <h2>Publications</h2>
+    <h2>Websites</h2>
     <ul class="pub">
       <li>
         <b>
@@ -159,18 +160,6 @@
 	<b>Kyle Dewey</b>, Jared Roesch, and Ben Hardekopf
 	<br/>
 	Conference on Automated Software Engineering (ASE), 2014 
-      </li>
-
-      <li>
-	<b>
-	  <a href="http://www.cs.ucsb.edu/~benh/research/papers/kashyap14jsai.pdf">
-	    JSAI: A Static Analysis Platform for JavaScript
-	  </a>
-	</b>
-	<br/>
-	Vineeth Kashyap, <b>Kyle Dewey</b>, Ethan A. Kuefner, John Wagner, Kevin Gibbons, John Sarracino, Ben Wiedermann, and Ben Hardekopf
-	<br/>
-	Symposium on Foundations of Software Engineering (FSE), 2014 
       </li>
     </ul>
 

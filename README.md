@@ -4,7 +4,7 @@
   <!-- <body onload="swapImage()"> -->
   <!-- code to trigger seeing my old picture -->
   <body>
-    <h1>Kevin Mundo's Homepage</h1>
+    <h1 style="color:blue;">Kevin Mundo's Homepage</h1>
     <img id="headshot" src="headshot.jpg" alt="Picture" style="width: 15%"/>
     <br>
     <h2>Who am I?</h2>
@@ -17,8 +17,7 @@
       Email: kevinmundo99 at gmail dot com
       <br>
       Office: JD 4419
-      <br>
-      Office Hours:
+ 
     </p>
     <ul>
       <li>Monday/Wednesday: 12:30 PM - 1:30 PM</li>
@@ -163,7 +162,7 @@
       </li>
     </ul>
 
-    <h2>Past Courses Taught</h2>
+    <h2>Past Courses Taken</h2>
     <ul>
       <li>
         <a href="https://kyledewey.github.io/comp333-fall19/">
@@ -171,18 +170,8 @@
         </a>
       </li>
       <li>
-        <a href="https://kyledewey.github.io/comp410-fall19/">
-          <strong>Logic Programming (COMP 410) (Fall 2019)</strong>
-        </a>
-      </li>
-      <li>
 	<a href="https://kyledewey.github.io/comp491-spring19/">
 	  <strong>Senior Design Lab (CSUN COMP 491L) (Spring 2019)</strong>
-	</a>
-      </li>
-      <li>
-	<a href="https://kyledewey.github.io/comp430-spring19/">
-	  <strong>Language Design and Compilers (CSUN COMP 430) (Spring 2019)</strong>
 	</a>
       </li>
       <li>
@@ -215,16 +204,7 @@
           <strong>Computer Architecture and Assembly Language (CSUN COMP 122/L) (Fall 2017)</strong>
         </a>
       </li>
-      <li>
-	<a href="cs162s17">
-	  <strong>Programming Languages (UCSB CS162) (Spring 2017)</strong>
-	</a>
-      </li>
-      <li>
-	<a href="cs162w17">
-	  <strong>Programming Languages (UCSB CS162) (Winter 2017)</strong>
-	</a>
-      </li>
+
       <li>
 	<a href="cs64w16">
 	  <strong>Computer Organization and Design Logic (UCSB CS64) (Winter 2016)</strong>

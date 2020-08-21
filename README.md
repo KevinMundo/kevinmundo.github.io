@@ -225,29 +225,15 @@
       </li>
     </ul>
 
-    <h2>Past TA Work</h2>
+    <h2>Past Tutor Work</h2>
     <ul>
       <li>
-	<a href="cs162ws14"><strong>Programming Languages (UCSB CS162) (Spring 2014)</strong></a>
+	<a href="cs162ws14"><strong>Calculus 1 (Varsity Tutors) (Spring 2016)</strong></a>
       </li>      
       <li>
-	<a href="cs162ws14"><strong>Programming Languages (UCSB CS162) (Winter 2014)</strong></a>
+	<a href="cs162ws14"><strong>Java Programming Language (Varsity Tutors) (Fall 2017)</strong></a>
       </li>
-      <li>
-	<a href="cs162s13"><strong>Programming Langauges (UCSB CS162) (Spring 2013)</strong></a>
-      </li>
-      <li>
-	<a href="cs162w13"><strong>Programming Languages (UCSB CS162) (Winter 2013)</strong></a>
-      </li>
-      <li>
-	<a href="cs189B"><strong>Capstone Project (CS189B) (UCSB Spring 2012)</strong></a>
-      </li>
-      <li>
-        <a href="cs189A"><strong>Capstone Project (CS189A) (UCSB Winter 2012)</strong></a>
-      </li>
-      <li>
-	<a href="cs170"><strong>Operating Systems (CS170) (UCSB Fall 2011)</strong></a>
-      </li>
+
     </ul>
 
     <h2>Other Contact Information</h2>

@@ -214,14 +214,14 @@
       </li>
       <li>
 	<a href="cs162w15">
-	  <strong>Programming Languages (UCSB CS162) (Winter 2015)</strong>
+	  <strong>Combinatorial Algorithms (CSUN CS482) (Winter 2019)</strong>
 	</a>
       </li>
       <li>
-	<a href="cs24"><strong>Problem Solving with Computers II (UCSB CS24) (Summer 2014, Session C)</strong></a>
+	<a href="cs24"><strong>Problem Solving with Computers II (CSUN CS24) (Summer 2014, Session C)</strong></a>
       </li>
       <li>
-	<a href="cs16"><strong>Problem Solving with Computers I (UCSB CS16) (Summer 2012, Session C)</strong></a>
+	<a href="cs16"><strong>Problem Solving with Computers I (CSUN CS16) (Summer 2012, Session C)</strong></a>
       </li>
     </ul>
 
@@ -238,8 +238,8 @@
 
     <h2>Other Contact Information</h2>
     <ul>
-      <li>Twitter: @kyledewey</li>
-      <li>Github: <a href="https://github.com/kyledewey">kyledewey</a></li>
+      <li>Twitter: N/A/</li>
+      <li>Github: <a href="https://github.com/KevinMundo?tab=repositories">KevinMundo</a></li>
     </ul>
   </body>
 </html>

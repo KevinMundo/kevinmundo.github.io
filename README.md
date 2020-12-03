@@ -37,15 +37,9 @@
     <h2>Degrees Pursuing</h2>
     <ul>
       <li>
-	Ph.D. in Computer Science, Awarded by the <a href="http://www.ucsb.edu/">University of California, Santa Barbara</a> in 2017
+	B.S. in Computer Science, Awarded by the <a href="http://www.csun.edu/">California State University Northridge</a> in 2021
       </li>
-      <li>
-	Master of Science in Bioinformatics, Awarded by the <a href="http://www.rit.edu">Rochester Institute of Technology</a> in 2011
-      </li>
-      <li>
-	Bachelor of Science in Bioinformatics with a Minor in Computer Science, Awarded by the <a href="http://www.rit.edu">Rochester Institute of Technology</a> in 2011
-      </li>
-    </ul>
+
     
     <h2>Current Courses Taking</h2>
     <ul>
@@ -63,25 +57,15 @@
 
     <h2>Research</h2>
     <p>
-      <b>Interests:</b> Automated software testing, Computer Science education, constraint logic programming, and programming language design.
+      <b>Interests:</b> Automated software testing, Front-End Development, Mobile App Development, Computer Science education, constraint logic programming, and programming language design.
     </p>
-    <p>
-      <b>Project for <a href="http://www.ecs.csun.edu/aims2/">AIMS<sup>2</sup></a>:</b> <a href="aims/index.html">Evaluating Test Suite Generation Techniques for Introductory Computer Science Assignments</a>
-    </p>
+
+
+
 
     <h2>Websites</h2>
     <ul class="pub">
-    <li>
-        <b>
-          <a href="https://dl.acm.org/citation.cfm?id=3322256">
-            Bouncer: Static Program Analysis in Hardware
-          </a>
-        </b>
-        <br />
-        Joseph McMahan, Michael Christensen, <b>Kyle Dewey</b>, Ben Hardekopf, Timothy Sherwood
-        <br />
-        International Symposium on Computer Architecture (ISCA), 2019
-      </li>
+
       <li>
         <b>
           <a href="https://dl.acm.org/citation.cfm?id=3319789">
@@ -93,17 +77,7 @@
         <br />
 	Conference on Innovation and Technology in Computer Science Education (ITiCSE), 2019
       </li>
-      <li>
-	<b>
-	  <a href="http://dl.acm.org/citation.cfm?id=3059051">
-	    Evaluating Test Suite Effectiveness and Assessing Student Code via Constraint Logic Programming
-	  </a>
-	</b>
-	<br />
-	<b>Kyle Dewey</b>, Phill Conrad, Michelle Craig, Elena Morozova
-	<br />
-	Conference on Innovation and Technology in Computer Science Education (ITiCSE), 2017
-      </li>
+      
       <li>
 	<b>
 	  <a href="http://www.cs.ucsb.edu/~benh/research/papers/dewey15fuzzing.pdf">

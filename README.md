@@ -71,16 +71,7 @@
 
     <h2>Websites</h2>
     <ul class="pub">
-      <li>
-        <b>
-          MiMIs: Simple, Efficient, and Fast Bounded-Exhaustive Test Case Generators
-        </b>
-        <br />
-        <b>Kyle Dewey</b>, Shant Hairapetian, Miroslav Gavrilov
-        <br />
-        International Conference on Software Testing, Verification and Validation (ICST), 2020 (to appear)
-      </li>
-      <li>
+    <li>
         <b>
           <a href="https://dl.acm.org/citation.cfm?id=3322256">
             Bouncer: Static Program Analysis in Hardware
@@ -162,38 +153,33 @@
     <h2>Past Courses Taken</h2>
     <ul>
       <li>
-        <a href="https://kyledewey.github.io/comp333-fall19/">
-          <strong>Concepts of Programming Languages (COMP 333) (Fall 2019)</strong>
+          <a href="https://kyledewey.github.io/comp491-spring19/">
+	  <strong>Concepts of Programming Languages (COMP 333) (Fall 2019)</strong>
         </a>
       </li>
       <li>
-	<a href="https://kyledewey.github.io/comp491-spring19/">
+
 	  <strong>Senior Design Lab (CSUN COMP 491L) (Spring 2019)</strong>
 	</a>
       </li>
       <li>
-	<a href="https://kyledewey.github.io/comp490-fall18/">
+
 	  <strong>Senior Design Project (CSUN COMP 490/L) (Fall 2018)</strong>
 	</a>
       </li>
       <li>
-	<a href="https://kyledewey.github.io/comp587-fall18/">
-	  <strong>Software Verification and Validation (CSUN COMP 587) (Fall 2018)</strong>
+
+	  <strong>Data Mining (CSUN COMP 541) (Spring 2020)</strong>
 	</a>
       </li>
       <li>
-        <a href="https://kyledewey.github.io/comp110-spring18/">
+
           <strong>Introduction to Algorithms and Programming with Lab (CSUN COMP 110/L) (Spring 2018)</strong>
         </a>
       </li>
       <li>
-        <a href="https://kyledewey.github.io/comp410-spring18/">
+
           <strong>Logic Programming (CSUN COMP 410) (Spring 2018)</strong>
-        </a>
-      </li>
-      <li>
-        <a href="https://kyledewey.github.io/comp110-fall17/">
-          <strong>Introduction to Algorithms and Programming with Lab (CSUN COMP 110/L) (Fall 2017)</strong>
         </a>
       </li>
       <li>

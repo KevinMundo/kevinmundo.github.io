@@ -1,15 +1,14 @@
 <html>
-<head>
-    <style type="text/css">
+	    <style type="text/css">
     
-    h1 {
-    color:blue;
-    
-    }
+    h1 {color:blue;}
     
     </style>
-</head>
+<head>
+
+
 <h1>Kevin Mundo's Homepage</h1>
+	</head>
   <!-- <body onload="swapImage()"> -->
   <!-- code to trigger seeing my old picture -->
   <body>

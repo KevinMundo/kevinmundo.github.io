@@ -1,3 +1,4 @@
+
 <html>
 	    <style type="text/css">
     
@@ -11,12 +12,14 @@
 	</head>
   <!-- <body onload="swapImage()"> -->
   <!-- code to trigger seeing my old picture -->
-  <body>
+  
+
+<body>
     <img id="headshot" src="headshot.jpg" alt="Picture" style="width: 15%"/>
     <br>
     <h2>Who am I?</h2>
     <p>
-      I am a student of Computer Science at <a href="https://www.csun.edu/">California State University, Northridge</a>.
+      I am a student of Computer Science at <a href="https://www.csun.edu/">California State University, Northridge</a>
     </p>
 
     <h2>Contacting Me</h2>
@@ -189,5 +192,5 @@
     <ul>
       <li>Github: <a href="https://github.com/KevinMundo?tab=repositories">KevinMundo</a></li>
     </ul>
-	    </body>
+	  
 	  </html>

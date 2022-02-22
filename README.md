@@ -158,13 +158,13 @@
       </li>
       <li>
 	<a href="cs64f15">
-	  <strong>Computer Organization and Design Logic (UCSB CS64) (Fall 2015)</strong>
-	</a>
+	  <strong>Computer Organization and Design Logic (UCSB CS64) (Fall 2015)</strong
+		  </a>
       </li>
       <li>
 	<a href="cs162w15">
 	  <strong>Combinatorial Algorithms (CSUN CS482) (Winter 2019)</strong>
-	</a>
+
       </li>
       <li>
 	<a href="cs24"><strong>Problem Solving with Computers II (CSUN CS24) (Summer 2014, Session C)</strong></a>

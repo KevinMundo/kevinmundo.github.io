@@ -126,27 +126,24 @@
       <li>
 
 	  <strong>Senior Design Lab (CSUN COMP 491L) (Spring 2019)</strong>
-	</a>
       </li>
       <li>
 
 	  <strong>Senior Design Project (CSUN COMP 490/L) (Fall 2018)</strong>
-	</a>
       </li>
       <li>
 
 	  <strong>Data Mining (CSUN COMP 541) (Spring 2020)</strong>
-	</a>
       </li>
       <li>
 
           <strong>Introduction to Algorithms and Programming with Lab (CSUN COMP 110/L) (Spring 2018)</strong>
-        </a>
+      
       </li>
       <li>
 
           <strong>Logic Programming (CSUN COMP 410) (Spring 2018)</strong>
-        </a>
+      
       </li>
       <li>
         <a href="https://kyledewey.github.io/comp122-fall17/">
@@ -192,5 +189,5 @@
     <ul>
       <li>Github: <a href="https://github.com/KevinMundo?tab=repositories">KevinMundo</a></li>
     </ul>
-  </body>
-</html>
+	    </body>
+	  </html>

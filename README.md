@@ -186,7 +186,6 @@
 	<a href="cs162ws14"><strong>Java Programming Language (Varsity Tutors) (Fall 2017)</strong></a>
       </li>
 
-    </ul>
 
     <h2>Other Contact Information</h2>
     <ul>

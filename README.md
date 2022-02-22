@@ -34,7 +34,7 @@
       <li>
 	B.S. in Computer Science, Awarded by the <a href="http://www.csun.edu/">California State University Northridge</a> in 2021
       </li>
-
+	</ul>
     
     <h2>Current Courses Taking</h2>
     <ul>
@@ -175,7 +175,7 @@
       <li>
 	<a href="cs16"><strong>Problem Solving with Computers I (CSUN CS16) (Summer 2012, Session C)</strong></a>
       </li>
-   
+		</ul>
 
     <h2>Past Tutor Work</h2>
     <ul>

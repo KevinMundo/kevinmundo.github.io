@@ -23,15 +23,9 @@
     <p>
       Email: kevinmundo99 at gmail dot com
       <br>
-      Office: JD 4419
  
     </p>
-    <ul>
-      <li>Monday/Wednesday: 12:30 PM - 1:30 PM</li>
-      <li>Thursday: 1:00 PM - 2:00 PM</li>
-      <li>Also available by appointment</li>
-    </ul>
-    
+
     <h2>Degrees Pursuing</h2>
     <ul>
       <li>
@@ -196,7 +190,6 @@
 
     <h2>Other Contact Information</h2>
     <ul>
-      <li>Twitter: N/A/</li>
       <li>Github: <a href="https://github.com/KevinMundo?tab=repositories">KevinMundo</a></li>
     </ul>
   </body>

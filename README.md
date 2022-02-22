@@ -175,7 +175,7 @@
       <li>
 	<a href="cs16"><strong>Problem Solving with Computers I (CSUN CS16) (Summer 2012, Session C)</strong></a>
       </li>
-    </ul>
+   
 
     <h2>Past Tutor Work</h2>
     <ul>

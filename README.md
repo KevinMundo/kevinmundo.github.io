@@ -3,14 +3,13 @@
     <style type="text/css">
     
     h1 {
-    color: blue;
+    color:blue;
     
     }
     
     </style>
-    
-<h1>Kevin Mundo's Homepage</h1>
 </head>
+<h1>Kevin Mundo's Homepage</h1>
   <!-- <body onload="swapImage()"> -->
   <!-- code to trigger seeing my old picture -->
   <body>
